@@ -36,7 +36,7 @@
 <p> - 🎮 Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe </p>
   
 </div>
-
+<div>
 ## Minhas skills :nerd_face:
 <div align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -83,3 +83,4 @@
  </p>
 
 </p>
+</div>
