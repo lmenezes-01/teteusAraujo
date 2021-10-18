@@ -28,18 +28,23 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
-<p> - 👨‍💻 Engenheiro de Software Jr no Itaú Unibanco. </p>
-<p> - 👨‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 6° semestre. </p>
-<p> - 🎯 Interesse: Java, Kotlin, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, Angular, AWS e Docker . </p>
-<p> - 🦊 Quando me perguntaram o que eu queria ser ? há um tempo atrás a minha resposta foi "SER HOKAGE" e hoje eu sou um engenheiro de software, nada haver kkk. Sou fã do anime Naruto , eaê, bora assistir uns filler juntos ? </p>
-<p> - 🎮 Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe </p>
-  
+  <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
+  <p> - 👨‍💻 Engenheiro de Software Jr no Itaú Unibanco. </p>
+  <p> - 👨‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 6° semestre. </p>
+  <p> - 🎯 Interesse: Java, Kotlin, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, Angular, AWS e Docker . </p>
+  <p> - 🦊 Quando me perguntaram o que eu queria ser ? há um tempo atrás a minha resposta foi "SER HOKAGE" e hoje eu sou um engenheiro de software, nada haver kkk. Sou fã do anime Naruto , eaê, bora assistir uns filler juntos ? </p>
+  <p> - 🎮 Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe </p>
 </div>
-<div>
+
+
+
+<div align="center"  style="display: inline_block"  >
+
+<img align="left" width="270" height="270" style="border-radius:30px;" margin-right = "10px ;" src="developer.gif?raw=true" />
+
 ## Minhas skills :nerd_face:
-<div align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -75,12 +80,12 @@
     </a>
 </p>
 
-<p align="center"> 
+  <div>
 
- ## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
- </p>
-
-</p>
+  ## Total de visitas no meu perfil :detective: <br>
+  <p align="center"> 
+      <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+  </p>
+  </div>
+ 
 </div>
